@@ -5,17 +5,13 @@ Blog
 
 
 
-
+Test on Local machine.
 
 Install foreman
 	$ gem install foreman
 
 Run Local via foreman
 	$ foreman start
-
-
-
-
 
 
 Commit your change.
